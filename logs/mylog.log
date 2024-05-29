@@ -1,0 +1,149 @@
+[INFO ] 2024-05-29 02:21:02.834 [main] MyStoreV1 - url opened
+[INFO ] 2024-05-29 02:21:02.879 [main] MyStoreV1 - Execution started
+[INFO ] 2024-05-29 02:21:03.895 [main] MyStoreV1 - click on sign in buttton on homepage
+[INFO ] 2024-05-29 02:21:04.213 [main] MyStoreV1 - Entered email id & pwd
+[INFO ] 2024-05-29 02:21:05.185 [main] MyStoreV1 - clicked on sign in buttton
+[INFO ] 2024-05-29 02:21:05.239 [main] MyStoreV1 - Verify login -passed
+[INFO ] 2024-05-29 02:21:15.182 [main] MyStoreV1 - url opened
+[INFO ] 2024-05-29 02:21:15.188 [main] MyStoreV1 - Execution started
+[INFO ] 2024-05-29 02:21:16.557 [main] MyStoreV1 - click on sign in buttton on homepage
+[INFO ] 2024-05-29 02:21:16.914 [main] MyStoreV1 - Entered email id & pwd
+[INFO ] 2024-05-29 02:21:17.984 [main] MyStoreV1 - clicked on sign in buttton
+[INFO ] 2024-05-29 02:21:18.151 [main] MyStoreV1 - Text Entered in searchbox
+[INFO ] 2024-05-29 02:21:22.260 [main] MyStoreV1 - Search product Test case is pass
+[INFO ] 2024-05-29 02:21:33.229 [main] MyStoreV1 - url opened
+[INFO ] 2024-05-29 02:21:33.239 [main] MyStoreV1 - Execution started
+[INFO ] 2024-05-29 02:21:34.209 [main] MyStoreV1 - click on sign in buttton on homepage
+[INFO ] 2024-05-29 02:21:34.535 [main] MyStoreV1 - Entered email id & pwd
+[INFO ] 2024-05-29 02:21:35.629 [main] MyStoreV1 - clicked on sign in buttton
+[INFO ] 2024-05-29 02:21:35.756 [main] MyStoreV1 - Text Entered in searchbox
+[INFO ] 2024-05-29 02:21:36.326 [main] MyStoreV1 - search product display on screen
+[INFO ] 2024-05-29 02:21:38.158 [main] MyStoreV1 - User click on product tile
+[INFO ] 2024-05-29 02:21:44.633 [main] MyStoreV1 - User select the size,quantity, color change & then click on add to cart & then proceed to checkoutbutton
+[INFO ] 2024-05-29 02:21:45.683 [main] MyStoreV1 - User proceed to checkout from productsummary page
+[INFO ] 2024-05-29 02:21:46.145 [main] MyStoreV1 - User proceed to checkout from Address page
+[INFO ] 2024-05-29 02:21:47.513 [main] MyStoreV1 - User proceed to checkout from Shipping Page
+[INFO ] 2024-05-29 02:21:48.148 [main] MyStoreV1 - User proceed from payment type selection page
+[INFO ] 2024-05-29 02:21:56.554 [main] MyStoreV1 - User confirm the order
+[INFO ] 2024-05-29 02:21:56.612 [main] MyStoreV1 - Your order on My Shop is complete message gets display on screen
+[INFO ] 2024-05-29 18:56:39.573 [main] MyStoreV1 - url opened
+[INFO ] 2024-05-29 18:56:39.943 [main] MyStoreV1 - Execution started
+[INFO ] 2024-05-29 18:56:42.004 [main] MyStoreV1 - click on sign in buttton on homepage
+[INFO ] 2024-05-29 18:56:42.867 [main] MyStoreV1 - Entered email id & pwd
+[INFO ] 2024-05-29 18:56:44.137 [main] MyStoreV1 - clicked on sign in buttton
+[INFO ] 2024-05-29 18:56:44.207 [main] MyStoreV1 - Verify login -passed
+[INFO ] 2024-05-29 18:56:52.692 [main] MyStoreV1 - url opened
+[INFO ] 2024-05-29 18:56:52.698 [main] MyStoreV1 - Execution started
+[INFO ] 2024-05-29 18:57:00.903 [main] MyStoreV1 - url opened
+[INFO ] 2024-05-29 18:57:00.925 [main] MyStoreV1 - Execution started
+[INFO ] 2024-05-29 18:57:08.353 [main] MyStoreV1 - click on sign in buttton on homepage
+[INFO ] 2024-05-29 18:57:08.826 [main] MyStoreV1 - Entered email id & pwd
+[INFO ] 2024-05-29 18:57:09.955 [main] MyStoreV1 - clicked on sign in buttton
+[INFO ] 2024-05-29 18:57:10.082 [main] MyStoreV1 - Text Entered in searchbox
+[INFO ] 2024-05-29 18:57:11.396 [main] MyStoreV1 - search product display on screen
+[INFO ] 2024-05-29 18:57:12.885 [main] MyStoreV1 - User click on product tile
+[INFO ] 2024-05-29 18:57:19.394 [main] MyStoreV1 - User select the size,quantity, color change & then click on add to cart & then proceed to checkoutbutton
+[INFO ] 2024-05-29 18:57:22.976 [main] MyStoreV1 - User proceed to checkout from productsummary page
+[INFO ] 2024-05-29 18:57:24.286 [main] MyStoreV1 - User proceed to checkout from Address page
+[INFO ] 2024-05-29 18:57:25.749 [main] MyStoreV1 - User proceed to checkout from Shipping Page
+[INFO ] 2024-05-29 18:57:26.422 [main] MyStoreV1 - User proceed from payment type selection page
+[INFO ] 2024-05-29 18:57:35.233 [main] MyStoreV1 - User confirm the order
+[INFO ] 2024-05-29 18:57:35.287 [main] MyStoreV1 - Your order on My Shop is complete message gets display on screen
+[INFO ] 2024-05-29 19:10:09.942 [main] MyStoreV1 - url opened
+[INFO ] 2024-05-29 19:10:10.408 [main] MyStoreV1 - Execution started
+[INFO ] 2024-05-29 19:10:23.780 [main] MyStoreV1 - url opened
+[INFO ] 2024-05-29 19:10:23.784 [main] MyStoreV1 - Execution started
+[INFO ] 2024-05-29 19:10:24.932 [main] MyStoreV1 - click on sign in buttton on homepage
+[INFO ] 2024-05-29 19:10:26.082 [main] MyStoreV1 - Entered email id & pwd
+[INFO ] 2024-05-29 19:10:27.406 [main] MyStoreV1 - clicked on sign in buttton
+[INFO ] 2024-05-29 19:10:27.728 [main] MyStoreV1 - Text Entered in searchbox
+[INFO ] 2024-05-29 19:10:32.307 [main] MyStoreV1 - Search product Test case is pass
+[INFO ] 2024-05-29 19:10:43.600 [main] MyStoreV1 - url opened
+[INFO ] 2024-05-29 19:10:43.603 [main] MyStoreV1 - Execution started
+[INFO ] 2024-05-29 19:10:44.672 [main] MyStoreV1 - click on sign in buttton on homepage
+[INFO ] 2024-05-29 19:10:45.004 [main] MyStoreV1 - Entered email id & pwd
+[INFO ] 2024-05-29 19:10:45.962 [main] MyStoreV1 - clicked on sign in buttton
+[INFO ] 2024-05-29 19:10:46.070 [main] MyStoreV1 - Text Entered in searchbox
+[INFO ] 2024-05-29 19:10:46.666 [main] MyStoreV1 - search product display on screen
+[INFO ] 2024-05-29 19:10:48.628 [main] MyStoreV1 - User click on product tile
+[INFO ] 2024-05-29 19:19:07.477 [main] MyStoreV1 - url opened
+[INFO ] 2024-05-29 19:19:07.538 [main] MyStoreV1 - Execution started
+[INFO ] 2024-05-29 19:19:08.619 [main] MyStoreV1 - click on sign in buttton on homepage
+[INFO ] 2024-05-29 19:19:08.935 [main] MyStoreV1 - Entered email id & pwd
+[INFO ] 2024-05-29 19:19:09.824 [main] MyStoreV1 - clicked on sign in buttton
+[INFO ] 2024-05-29 19:19:09.932 [main] MyStoreV1 - Text Entered in searchbox
+[INFO ] 2024-05-29 19:19:13.468 [main] MyStoreV1 - Search product Test case is pass
+[INFO ] 2024-05-29 19:19:44.612 [main] MyStoreV1 - url opened
+[INFO ] 2024-05-29 19:19:44.657 [main] MyStoreV1 - Execution started
+[INFO ] 2024-05-29 19:20:06.164 [main] MyStoreV1 - url opened
+[INFO ] 2024-05-29 19:20:06.214 [main] MyStoreV1 - Execution started
+[INFO ] 2024-05-29 19:20:41.845 [main] MyStoreV1 - url opened
+[INFO ] 2024-05-29 19:20:41.887 [main] MyStoreV1 - Execution started
+[INFO ] 2024-05-29 19:20:43.016 [main] MyStoreV1 - click on sign in buttton on homepage
+[INFO ] 2024-05-29 19:20:43.351 [main] MyStoreV1 - Entered email id & pwd
+[INFO ] 2024-05-29 19:20:44.279 [main] MyStoreV1 - clicked on sign in buttton
+[INFO ] 2024-05-29 19:20:44.385 [main] MyStoreV1 - Text Entered in searchbox
+[INFO ] 2024-05-29 19:20:44.866 [main] MyStoreV1 - search product display on screen
+[INFO ] 2024-05-29 19:20:46.392 [main] MyStoreV1 - User click on product tile
+[INFO ] 2024-05-29 19:21:35.260 [main] MyStoreV1 - url opened
+[INFO ] 2024-05-29 19:21:35.311 [main] MyStoreV1 - Execution started
+[INFO ] 2024-05-29 19:22:08.120 [main] MyStoreV1 - url opened
+[INFO ] 2024-05-29 19:22:08.172 [main] MyStoreV1 - Execution started
+[INFO ] 2024-05-29 19:22:09.254 [main] MyStoreV1 - click on sign in buttton on homepage
+[INFO ] 2024-05-29 19:22:09.610 [main] MyStoreV1 - Entered email id & pwd
+[INFO ] 2024-05-29 19:22:10.860 [main] MyStoreV1 - clicked on sign in buttton
+[INFO ] 2024-05-29 19:22:10.967 [main] MyStoreV1 - Text Entered in searchbox
+[INFO ] 2024-05-29 19:22:12.046 [main] MyStoreV1 - search product display on screen
+[INFO ] 2024-05-29 19:22:13.092 [main] MyStoreV1 - User click on product tile
+[INFO ] 2024-05-29 19:27:27.315 [main] MyStoreV1 - url opened
+[INFO ] 2024-05-29 19:27:27.366 [main] MyStoreV1 - Execution started
+[INFO ] 2024-05-29 19:27:28.333 [main] MyStoreV1 - click on sign in buttton on homepage
+[INFO ] 2024-05-29 19:27:28.683 [main] MyStoreV1 - Entered email id & pwd
+[INFO ] 2024-05-29 19:27:29.738 [main] MyStoreV1 - clicked on sign in buttton
+[INFO ] 2024-05-29 19:27:29.849 [main] MyStoreV1 - Text Entered in searchbox
+[INFO ] 2024-05-29 19:27:30.471 [main] MyStoreV1 - search product display on screen
+[INFO ] 2024-05-29 19:27:31.912 [main] MyStoreV1 - User click on product tile
+[INFO ] 2024-05-29 23:38:54.848 [main] MyStoreV1 - url opened
+[INFO ] 2024-05-29 23:38:56.271 [main] MyStoreV1 - Execution started
+[INFO ] 2024-05-29 23:38:58.305 [main] MyStoreV1 - click on sign in buttton on homepage
+[INFO ] 2024-05-29 23:38:58.823 [main] MyStoreV1 - Entered email id & pwd
+[INFO ] 2024-05-29 23:38:59.863 [main] MyStoreV1 - clicked on sign in buttton
+[INFO ] 2024-05-29 23:39:00.118 [main] MyStoreV1 - Verify login -passed
+[INFO ] 2024-05-29 23:40:48.140 [main] MyStoreV1 - url opened
+[INFO ] 2024-05-29 23:40:48.186 [main] MyStoreV1 - Execution started
+[INFO ] 2024-05-29 23:40:49.364 [main] MyStoreV1 - click on sign in buttton on homepage
+[INFO ] 2024-05-29 23:40:49.828 [main] MyStoreV1 - Entered email id & pwd
+[INFO ] 2024-05-29 23:40:50.926 [main] MyStoreV1 - clicked on sign in buttton
+[INFO ] 2024-05-29 23:40:51.046 [main] MyStoreV1 - Text Entered in searchbox
+[INFO ] 2024-05-29 23:40:54.947 [main] MyStoreV1 - Search product Test case is pass
+[INFO ] 2024-05-29 23:41:30.849 [main] MyStoreV1 - url opened
+[INFO ] 2024-05-29 23:41:30.897 [main] MyStoreV1 - Execution started
+[INFO ] 2024-05-29 23:41:32.335 [main] MyStoreV1 - click on sign in buttton on homepage
+[INFO ] 2024-05-29 23:41:32.757 [main] MyStoreV1 - Entered email id & pwd
+[INFO ] 2024-05-29 23:41:34.071 [main] MyStoreV1 - clicked on sign in buttton
+[INFO ] 2024-05-29 23:41:34.207 [main] MyStoreV1 - Text Entered in searchbox
+[INFO ] 2024-05-29 23:41:35.334 [main] MyStoreV1 - search product display on screen
+[INFO ] 2024-05-29 23:41:36.584 [main] MyStoreV1 - User click on product tile
+[INFO ] 2024-05-29 23:45:15.263 [main] MyStoreV1 - url opened
+[INFO ] 2024-05-29 23:45:15.559 [main] MyStoreV1 - Execution started
+[INFO ] 2024-05-29 23:45:20.436 [main] MyStoreV1 - click on sign in buttton on homepage
+[INFO ] 2024-05-29 23:45:20.772 [main] MyStoreV1 - Entered email id & pwd
+[INFO ] 2024-05-29 23:45:21.941 [main] MyStoreV1 - clicked on sign in buttton
+[INFO ] 2024-05-29 23:45:22.058 [main] MyStoreV1 - Text Entered in searchbox
+[INFO ] 2024-05-29 23:45:24.210 [main] MyStoreV1 - search product display on screen
+[INFO ] 2024-05-29 23:45:25.708 [main] MyStoreV1 - User click on product tile
+[INFO ] 2024-05-29 23:47:14.473 [main] MyStoreV1 - url opened
+[INFO ] 2024-05-29 23:47:14.546 [main] MyStoreV1 - Execution started
+[INFO ] 2024-05-29 23:47:20.066 [main] MyStoreV1 - click on sign in buttton on homepage
+[INFO ] 2024-05-29 23:47:20.728 [main] MyStoreV1 - Entered email id & pwd
+[INFO ] 2024-05-29 23:47:21.872 [main] MyStoreV1 - clicked on sign in buttton
+[INFO ] 2024-05-29 23:47:22.016 [main] MyStoreV1 - Text Entered in searchbox
+[INFO ] 2024-05-29 23:47:22.857 [main] MyStoreV1 - search product display on screen
+[INFO ] 2024-05-29 23:47:24.836 [main] MyStoreV1 - User click on product tile
+[INFO ] 2024-05-29 23:47:32.019 [main] MyStoreV1 - User select the size,quantity, color change & then click on add to cart & then proceed to checkoutbutton
+[INFO ] 2024-05-29 23:47:33.457 [main] MyStoreV1 - User proceed to checkout from productsummary page
+[INFO ] 2024-05-29 23:47:34.656 [main] MyStoreV1 - User proceed to checkout from Address page
+[INFO ] 2024-05-29 23:47:35.905 [main] MyStoreV1 - User proceed to checkout from Shipping Page
+[INFO ] 2024-05-29 23:47:36.461 [main] MyStoreV1 - User proceed from payment type selection page
+[INFO ] 2024-05-29 23:47:45.246 [main] MyStoreV1 - User confirm the order
+[INFO ] 2024-05-29 23:47:45.363 [main] MyStoreV1 - Your order on My Shop is complete message gets display on screen
