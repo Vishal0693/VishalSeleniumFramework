@@ -6,6 +6,7 @@
 	</listeners>
   <test name="Test">
     <classes>
+	<class name="com.mystore.testcases.TC_ContactUs"/>
       <class name="com.mystore.testcases.TC_MyAccountPageTest"/>
       <class name="com.mystore.testcases.TC_ProductPageTest"/>
       <class name="com.mystore.testcases.TC_BuyProduct"/>

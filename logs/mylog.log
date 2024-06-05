@@ -147,3 +147,82 @@
 [INFO ] 2024-05-29 23:47:36.461 [main] MyStoreV1 - User proceed from payment type selection page
 [INFO ] 2024-05-29 23:47:45.246 [main] MyStoreV1 - User confirm the order
 [INFO ] 2024-05-29 23:47:45.363 [main] MyStoreV1 - Your order on My Shop is complete message gets display on screen
+[INFO ] 2024-06-05 23:56:03.079 [main] MyStoreV1 - url opened
+[INFO ] 2024-06-05 23:56:04.004 [main] MyStoreV1 - Execution started
+[INFO ] 2024-06-05 23:56:07.621 [main] MyStoreV1 - click on sign in buttton on homepage
+[INFO ] 2024-06-05 23:56:08.220 [main] MyStoreV1 - Entered email id & pwd
+[INFO ] 2024-06-05 23:56:09.538 [main] MyStoreV1 - clicked on sign in buttton
+[INFO ] 2024-06-06 00:00:28.524 [main] MyStoreV1 - url opened
+[INFO ] 2024-06-06 00:00:28.574 [main] MyStoreV1 - Execution started
+[INFO ] 2024-06-06 00:00:29.719 [main] MyStoreV1 - click on sign in buttton on homepage
+[INFO ] 2024-06-06 00:00:30.053 [main] MyStoreV1 - Entered email id & pwd
+[INFO ] 2024-06-06 00:00:31.251 [main] MyStoreV1 - clicked on sign in buttton
+[INFO ] 2024-06-06 00:00:32.524 [main] MyStoreV1 - click on contactusbutton
+[INFO ] 2024-06-06 00:02:32.021 [main] MyStoreV1 - url opened
+[INFO ] 2024-06-06 00:02:32.071 [main] MyStoreV1 - Execution started
+[INFO ] 2024-06-06 00:02:33.595 [main] MyStoreV1 - click on contactusbutton
+[INFO ] 2024-06-06 00:02:35.066 [main] MyStoreV1 - user fill all the details on contact us page & click on on submit button
+[INFO ] 2024-06-06 00:03:13.769 [main] MyStoreV1 - url opened
+[INFO ] 2024-06-06 00:03:13.830 [main] MyStoreV1 - Execution started
+[INFO ] 2024-06-06 00:03:14.761 [main] MyStoreV1 - click on contactusbutton
+[INFO ] 2024-06-06 00:04:19.520 [main] MyStoreV1 - url opened
+[INFO ] 2024-06-06 00:04:19.565 [main] MyStoreV1 - Execution started
+[INFO ] 2024-06-06 00:04:20.633 [main] MyStoreV1 - click on contactusbutton
+[INFO ] 2024-06-06 00:13:39.955 [main] MyStoreV1 - url opened
+[INFO ] 2024-06-06 00:13:40.187 [main] MyStoreV1 - Execution started
+[INFO ] 2024-06-06 00:13:42.120 [main] MyStoreV1 - click on contactusbutton
+[INFO ] 2024-06-06 00:13:42.243 [main] MyStoreV1 - user click on dropdown
+[INFO ] 2024-06-06 00:13:45.369 [main] MyStoreV1 - user fill all the details on contact us page & click on on submit button
+[INFO ] 2024-06-06 00:19:31.383 [main] MyStoreV1 - url opened
+[INFO ] 2024-06-06 00:19:31.761 [main] MyStoreV1 - Execution started
+[INFO ] 2024-06-06 00:19:33.820 [main] MyStoreV1 - click on contactusbutton
+[INFO ] 2024-06-06 00:26:52.436 [main] MyStoreV1 - url opened
+[INFO ] 2024-06-06 00:26:52.819 [main] MyStoreV1 - Execution started
+[INFO ] 2024-06-06 00:26:55.329 [main] MyStoreV1 - click on contactusbutton
+[INFO ] 2024-06-06 00:28:24.384 [main] MyStoreV1 - url opened
+[INFO ] 2024-06-06 00:28:24.662 [main] MyStoreV1 - Execution started
+[INFO ] 2024-06-06 00:28:27.672 [main] MyStoreV1 - click on contactusbutton
+[INFO ] 2024-06-06 00:30:52.675 [main] MyStoreV1 - url opened
+[INFO ] 2024-06-06 00:30:52.749 [main] MyStoreV1 - Execution started
+[INFO ] 2024-06-06 00:31:10.149 [main] MyStoreV1 - url opened
+[INFO ] 2024-06-06 00:31:10.200 [main] MyStoreV1 - Execution started
+[INFO ] 2024-06-06 00:31:11.181 [main] MyStoreV1 - click on contactusbutton
+[INFO ] 2024-06-06 00:31:11.409 [main] MyStoreV1 - user click on dropdown
+[INFO ] 2024-06-06 00:31:23.533 [main] MyStoreV1 - user fill all the details on contact us page & click on on submit button
+[INFO ] 2024-06-06 00:37:24.943 [main] MyStoreV1 - url opened
+[INFO ] 2024-06-06 00:37:25.001 [main] MyStoreV1 - Execution started
+[INFO ] 2024-06-06 00:37:26.287 [main] MyStoreV1 - click on contactusbutton
+[INFO ] 2024-06-06 00:37:26.579 [main] MyStoreV1 - user selected the dropdown value
+[INFO ] 2024-06-06 00:37:26.751 [main] MyStoreV1 - user selected the email field value
+[INFO ] 2024-06-06 00:37:26.972 [main] MyStoreV1 - user enter the orderrefencefield
+[INFO ] 2024-06-06 00:37:27.120 [main] MyStoreV1 - user enter the message
+[INFO ] 2024-06-06 00:37:33.794 [main] MyStoreV1 - user fill all the details on contact us page & click on on submit button
+[INFO ] 2024-06-06 00:39:16.073 [main] MyStoreV1 - url opened
+[INFO ] 2024-06-06 00:39:16.176 [main] MyStoreV1 - Execution started
+[INFO ] 2024-06-06 00:39:17.523 [main] MyStoreV1 - click on contactusbutton
+[INFO ] 2024-06-06 00:39:17.901 [main] MyStoreV1 - user selected the dropdown value
+[INFO ] 2024-06-06 00:39:18.052 [main] MyStoreV1 - user selected the email field value
+[INFO ] 2024-06-06 00:39:18.236 [main] MyStoreV1 - user enter the orderrefencefield
+[INFO ] 2024-06-06 00:39:18.364 [main] MyStoreV1 - user enter the message
+[INFO ] 2024-06-06 00:39:25.057 [main] MyStoreV1 - user fill all the details on contact us page & click on on submit button
+[INFO ] 2024-06-06 00:39:37.010 [main] MyStoreV1 - url opened
+[INFO ] 2024-06-06 00:39:37.023 [main] MyStoreV1 - Execution started
+[INFO ] 2024-06-06 00:39:38.099 [main] MyStoreV1 - click on sign in buttton on homepage
+[INFO ] 2024-06-06 00:39:38.492 [main] MyStoreV1 - Entered email id & pwd
+[INFO ] 2024-06-06 00:39:39.885 [main] MyStoreV1 - clicked on sign in buttton
+[INFO ] 2024-06-06 00:39:39.983 [main] MyStoreV1 - Verify login -passed
+[INFO ] 2024-06-06 00:39:58.788 [main] MyStoreV1 - url opened
+[INFO ] 2024-06-06 00:39:58.798 [main] MyStoreV1 - Execution started
+[INFO ] 2024-06-06 00:39:59.820 [main] MyStoreV1 - click on sign in buttton on homepage
+[INFO ] 2024-06-06 00:40:00.148 [main] MyStoreV1 - Entered email id & pwd
+[INFO ] 2024-06-06 00:40:01.317 [main] MyStoreV1 - clicked on sign in buttton
+[INFO ] 2024-06-06 00:40:01.464 [main] MyStoreV1 - Text Entered in searchbox
+[INFO ] 2024-06-06 00:40:07.569 [main] MyStoreV1 - Search product Test case is pass
+[INFO ] 2024-06-06 00:40:19.768 [main] MyStoreV1 - url opened
+[INFO ] 2024-06-06 00:40:19.773 [main] MyStoreV1 - Execution started
+[INFO ] 2024-06-06 00:40:30.347 [main] MyStoreV1 - click on sign in buttton on homepage
+[INFO ] 2024-06-06 00:40:30.702 [main] MyStoreV1 - Entered email id & pwd
+[INFO ] 2024-06-06 00:40:32.048 [main] MyStoreV1 - clicked on sign in buttton
+[INFO ] 2024-06-06 00:40:32.167 [main] MyStoreV1 - Text Entered in searchbox
+[INFO ] 2024-06-06 00:40:32.677 [main] MyStoreV1 - search product display on screen
+[INFO ] 2024-06-06 00:40:34.754 [main] MyStoreV1 - User click on product tile

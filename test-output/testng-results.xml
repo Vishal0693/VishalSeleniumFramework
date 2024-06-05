@@ -1,21 +1,120 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+<testng-results ignored="0" total="4" passed="3" failed="1" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2024-05-29T23:47:06 IST" name="Default suite" finished-at="2024-05-29T23:47:45 IST" duration-ms="38656">
+  <suite started-at="2024-06-06T00:39:01 IST" name="Suite" finished-at="2024-06-06T00:40:37 IST" duration-ms="96161">
     <groups>
     </groups>
-    <test started-at="2024-05-29T23:47:06 IST" name="Default test" finished-at="2024-05-29T23:47:45 IST" duration-ms="38656">
+    <test started-at="2024-06-06T00:39:01 IST" name="Test" finished-at="2024-06-06T00:40:37 IST" duration-ms="96161">
       <class name="com.mystore.testcases.TC_BuyProduct">
-        <test-method is-config="true" signature="setup()[pri:0, instance:com.mystore.testcases.TC_BuyProduct@2a5c8d3f]" started-at="2024-05-29T23:47:06 IST" name="setup" finished-at="2024-05-29T23:47:14 IST" duration-ms="7689" status="PASS">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.mystore.testcases.TC_BuyProduct@1169afe1]" started-at="2024-06-06T00:40:08 IST" name="setup" finished-at="2024-06-06T00:40:19 IST" duration-ms="10910" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method signature="AddToCart()[pri:0, instance:com.mystore.testcases.TC_BuyProduct@2a5c8d3f]" started-at="2024-05-29T23:47:14 IST" name="AddToCart" finished-at="2024-05-29T23:47:45 IST" duration-ms="30833" status="PASS">
+        <test-method signature="AddToCart()[pri:0, instance:com.mystore.testcases.TC_BuyProduct@1169afe1]" started-at="2024-06-06T00:40:19 IST" name="AddToCart" finished-at="2024-06-06T00:40:37 IST" duration-ms="17676" status="FAIL">
+          <exception class="org.openqa.selenium.ElementNotInteractableException">
+            <message>
+              <![CDATA[element not interactable
+  (Session info: chrome=125.0.6422.113)
+Build info: version: '4.21.0', revision: '79ed462ef4'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [3ff8d4ad1d0ca63a64e0ef559f70a765, clickElement {id=f.B28A4108971D1FC7725E77045AD9BDDA.d.4D140CAA968C649AECFB59BAE313D379.e.118}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 125.0.6422.113, chrome: {chromedriverVersion: 125.0.6422.141 (4b1e8393712..., userDataDir: C:\Users\Pravin\AppData\Loc...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:50951}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:50951/devtoo..., se:cdpVersion: 125.0.6422.113, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on windows (3ff8d4ad1d0ca63a64e0ef559f70a765)] -> xpath: //input[@id='quantity_wanted']]
+Session ID: 3ff8d4ad1d0ca63a64e0ef559f70a765]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.ElementNotInteractableException: element not interactable
+  (Session info: chrome=125.0.6422.113)
+Build info: version: '4.21.0', revision: '79ed462ef4'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [3ff8d4ad1d0ca63a64e0ef559f70a765, clickElement {id=f.B28A4108971D1FC7725E77045AD9BDDA.d.4D140CAA968C649AECFB59BAE313D379.e.118}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 125.0.6422.113, chrome: {chromedriverVersion: 125.0.6422.141 (4b1e8393712..., userDataDir: C:\Users\Pravin\AppData\Loc...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:50951}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:50951/devtoo..., se:cdpVersion: 125.0.6422.113, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on windows (3ff8d4ad1d0ca63a64e0ef559f70a765)] -> xpath: //input[@id='quantity_wanted']]
+Session ID: 3ff8d4ad1d0ca63a64e0ef559f70a765
+at java.base/jdk.internal.reflect.DirectConstructorHandleAccessor.newInstance(DirectConstructorHandleAccessor.java:62)
+at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:502)
+at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:486)
+at org.openqa.selenium.remote.ErrorCodec.decode(ErrorCodec.java:167)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:138)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:50)
+at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:190)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:216)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:174)
+at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:518)
+at org.openqa.selenium.remote.RemoteWebElement.execute(RemoteWebElement.java:223)
+at org.openqa.selenium.remote.RemoteWebElement.click(RemoteWebElement.java:76)
+at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:51)
+at jdk.proxy2/jdk.proxy2.$Proxy28.click(Unknown Source)
+at com.mystore.pageobject.SearchResultPage.ProductdetailsPage(SearchResultPage.java:60)
+at com.mystore.testcases.TC_BuyProduct.AddToCart(TC_BuyProduct.java:54)
+at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:141)
+at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:686)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:230)
+at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:63)
+at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:992)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:203)
+at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:154)
+at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:134)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1596)
+at org.testng.TestRunner.privateRun(TestRunner.java:739)
+at org.testng.TestRunner.run(TestRunner.java:614)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:421)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:413)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:373)
+at org.testng.SuiteRunner.run(SuiteRunner.java:312)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1274)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1208)
+at org.testng.TestNG.runSuites(TestNG.java:1112)
+at org.testng.TestNG.run(TestNG.java:1079)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:293)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:91)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.ElementNotInteractableException -->
           <reporter-output>
           </reporter-output>
         </test-method> <!-- AddToCart -->
       </class> <!-- com.mystore.testcases.TC_BuyProduct -->
-    </test> <!-- Default test -->
-  </suite> <!-- Default suite -->
+      <class name="com.mystore.testcases.TC_ProductPageTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.mystore.testcases.TC_ProductPageTest@747f281]" started-at="2024-06-06T00:39:39 IST" name="setup" finished-at="2024-06-06T00:39:58 IST" duration-ms="18796" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="VerifySearchProduct()[pri:0, instance:com.mystore.testcases.TC_ProductPageTest@747f281]" started-at="2024-06-06T00:39:58 IST" name="VerifySearchProduct" finished-at="2024-06-06T00:40:08 IST" duration-ms="10058" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifySearchProduct -->
+      </class> <!-- com.mystore.testcases.TC_ProductPageTest -->
+      <class name="com.mystore.testcases.TC_ContactUs">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.mystore.testcases.TC_ContactUs@4c5ae43b]" started-at="2024-06-06T00:39:01 IST" name="setup" finished-at="2024-06-06T00:39:16 IST" duration-ms="14755" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="VerifyContactUsSection()[pri:0, instance:com.mystore.testcases.TC_ContactUs@4c5ae43b]" started-at="2024-06-06T00:39:16 IST" name="VerifyContactUsSection" finished-at="2024-06-06T00:39:25 IST" duration-ms="8951" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyContactUsSection -->
+      </class> <!-- com.mystore.testcases.TC_ContactUs -->
+      <class name="com.mystore.testcases.TC_MyAccountPageTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.mystore.testcases.TC_MyAccountPageTest@81d9a72]" started-at="2024-06-06T00:39:25 IST" name="setup" finished-at="2024-06-06T00:39:37 IST" duration-ms="11920" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="VerifyLogin()[pri:0, instance:com.mystore.testcases.TC_MyAccountPageTest@81d9a72]" started-at="2024-06-06T00:39:37 IST" name="VerifyLogin" finished-at="2024-06-06T00:39:39 IST" duration-ms="2976" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyLogin -->
+      </class> <!-- com.mystore.testcases.TC_MyAccountPageTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
 </testng-results>
